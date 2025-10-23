@@ -1,4 +1,5 @@
 # Omophagist
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a8a9863b-8910-4975-9020-766804db0874" />
 
 
 # Titel
