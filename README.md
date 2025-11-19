@@ -25,4 +25,17 @@ Welke visuele stijl wordt gebruikt? (realistisch, cartoonisch, minimalistisch, e
 #Technisch Design Document Template
 
 
-Trello link : https://trello.com/invite/b/OyUiQUwQ/ATTI88024da782c6d8ce151ba94acb9e5cc784957022/lycaontrello
+## Code Snippets
+### Dialogue Tekst
+<img width="567" height="529" alt="image" src="https://github.com/user-attachments/assets/b3c0e2a3-5842-487c-918a-2b70143614c3" />
+
+
+
+## Load Scene
+<img width="581" height="285" alt="image" src="https://github.com/user-attachments/assets/5b2d69d6-a29f-4715-af6d-edcce0ddefc2" />
+
+ 
+## Save Scene
+<img width="477" height="266" alt="image" src="https://github.com/user-attachments/assets/c9fbaeb6-d951-4b4b-b52f-ae3d3d8a3d78" />
+
+
