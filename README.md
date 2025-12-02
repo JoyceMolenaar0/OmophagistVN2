@@ -26,8 +26,7 @@ Welke visuele stijl wordt gebruikt? (realistisch, cartoonisch, minimalistisch, e
 
 
 ## Code Snippets
-### Dialogue Tekst
-<img width="567" height="529" alt="image" src="https://github.com/user-attachments/assets/b3c0e2a3-5842-487c-918a-2b70143614c3" />
+
 
 
 
